@@ -1,0 +1,25 @@
+/**index.wxss**/
+.container {
+  margin: 50rpx;
+}
+view {
+  margin-bottom: 30rpx;
+}
+input {
+  width: 600rpx;
+  margin-top: 10rpx;
+  border-bottom: 2rpx solid #ccc;
+}
+
+label {
+  display: block;
+  margin: 8rpx;
+}
+
+textarea {
+  width: 600rpx;
+  height: 100rpx;
+  margin: 10rpx 0 30rpx;
+  padding: 30rpx;
+  border: 2rpx solid #eee;
+}
